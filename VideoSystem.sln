@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoSystem", "VideoSystem\VideoSystem.csproj", "{0C65C0EF-FE23-4617-AF43-6AC731AEB2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoSystem.Tests", "VideoSystem.Tests\VideoSystem.Tests.csproj", "{D49F7EE1-52B8-47D6-A3E6-AC2B23388D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C65C0EF-FE23-4617-AF43-6AC731AEB2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C65C0EF-FE23-4617-AF43-6AC731AEB2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C65C0EF-FE23-4617-AF43-6AC731AEB2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C65C0EF-FE23-4617-AF43-6AC731AEB2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49F7EE1-52B8-47D6-A3E6-AC2B23388D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49F7EE1-52B8-47D6-A3E6-AC2B23388D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49F7EE1-52B8-47D6-A3E6-AC2B23388D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49F7EE1-52B8-47D6-A3E6-AC2B23388D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA0A641D-1A99-49B1-B265-633588129F81}
+	EndGlobalSection
+EndGlobal
